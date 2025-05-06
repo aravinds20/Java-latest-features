@@ -1,4 +1,4 @@
-package com.aravind.java8.streams;
+package com.aravind.java8.udemy.streams;
 
 import java.util.Arrays;
 import java.util.Comparator;

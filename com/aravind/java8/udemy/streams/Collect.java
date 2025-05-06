@@ -1,7 +1,5 @@
-package com.aravind.java8.streams;
+package com.aravind.java8.udemy.streams;
 
-
-import com.sun.source.tree.Tree;
 
 import java.util.List;
 import java.util.Map;
